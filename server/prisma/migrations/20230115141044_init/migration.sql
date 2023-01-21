@@ -1,0 +1,4 @@
+-- AlterTable
+ALTER TABLE "Post" ADD COLUMN     "id" SERIAL NOT NULL,
+ALTER COLUMN "imageUrl" SET DEFAULT ' ',
+ADD CONSTRAINT "Post_pkey" PRIMARY KEY ("id");
