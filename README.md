@@ -5,6 +5,7 @@ client for Blog
 Posting your interests, Blogging
 
 ## Running Locally
-```Hello```
+```js
+Hello```
 
 
